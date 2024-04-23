@@ -55,7 +55,7 @@ def get_clues(guess, secret_num):
     #and secret number pair.
 
     if guess == secret_num:
-        return 'You got it!'
+        return 'You got it!' #ignore this comment
     
     clues = []
 
